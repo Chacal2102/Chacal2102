@@ -1,0 +1,10 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <iframe src='https://login-register-alex.netlify.app/'></iframe>
+    </body>
+</html>
